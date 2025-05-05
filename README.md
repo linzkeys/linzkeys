@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Pedro Acioli, a future computer scientist,</h1>
+<h1 align="center">Hello! I'm Pedro Acioli, a future computer scientist.</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-victor-acioli/" target="_blank">
