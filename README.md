@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Meu nome é Pedro Acioli</h1>
+<h1 align="center">Hello! I'm Pedro Acioli, a future computer scientist,</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-victor-acioli/" target="_blank">
@@ -11,20 +11,26 @@
 
 ---
 
-### 👨‍🏫 Sobre mim
+### 👨‍🏫 About me
 
-- 🎓 Nasci em Recife - Pernambuco
-- 👨‍💻 Sei um pouco de Python e pretendo futuramente entrar para a área de Banco de dados ou cybersecurity.
-- 💬 Gosto de assuntos como História, geopolítica e filosofia.
-
+- 🎓 I was born in Recife, state of Pernambuco (Brazil)
+- 👨‍💻 I know a little bit of Python
+- 💬 I like history, geopolitics and strategic games (like HOI4 and EUIV)
 ---
 
 
-### 🎯 Objetivos e Pretensões
+### 🎯 Main goals
 
-- 🔌 Me aprofundar em conhecimentos de Banco de dados, que envolvem Java e MySQL
-- 🌐 Entrar para a área de cybersegurança
-- 🚀 Fazer o concurso da PF
+- 🔌 Get better in programming langagues in general
+- 🌐 Ingress the cybersecurity or database area
+- 🚀 Ingress the federal police
 ---
+
+### 📈 Github Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=linzkeys&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linzkeys&layout=compact&theme=tokyonight"/>
+</p>
 
 
