@@ -1,36 +1,37 @@
-<h1 align="center">Hello! I'm Pedro Acioli, a future computer scientist.</h1>
+<h1 align="center">Hello! I'm Pedro Acioli — Future Computer Scientist</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-victor-acioli/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ppvr2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
 ---
 
-### 👨‍🏫 About me
+### 👨‍🏫 About Me
 
-- 🎓 I was born in Recife, state of Pernambuco (Brazil)
-- 👨‍💻 I know a little bit of Python
-- 💬 I like history, geopolitics and strategic games (like HOI4 and EUIV)
+- 📍 Born in Recife, Pernambuco, Brazil  
+- 🐍 Beginner in Python programming  
+- 🎮 Passionate about history, geopolitics, and strategic games (like *Hearts of Iron IV* and *Europa Universalis IV*)
+
 ---
 
+### 🎯 Goals
 
-### 🎯 Main goals
+- 📚 Improve my skills in various programming languages  
+- 🔐 Enter the fields of cybersecurity or database management  
+- 🎖️ Join the Brazilian Federal Police  
 
-- 🔌 Get better in programming langagues in general
-- 🌐 Ingress the cybersecurity or database area
-- 🚀 Ingress the federal police
 ---
 
-### 📈 Github Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=linzkeys&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linzkeys&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=linzkeys&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linzkeys&layout=compact&theme=tokyonight&hide_title=true"/>
 </p>
 
 
